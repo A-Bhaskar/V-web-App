@@ -7,4 +7,3 @@ This app uses MongoDB as its database and react.js, redux
 used for frontend development, and Node.js, Express used for
 backend development.
 
-credit https://github.com/chirayu-joshi/videoServer
